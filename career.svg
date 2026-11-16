@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 610" width="900" height="610" role="img" aria-labelledby="t d">
+  <title id="t">Career timeline of Dip Pansuriya</title>
+  <desc id="d">2026 to now: LinkedIn, Senior Engineer. 2019 to 2026: SAP Ariba, Software Engineer to Senior Software Engineer. 2019: Samsung Research America, Software Engineer. 2018 to 2019: Veritas, Software Development Engineer. 2016 to 2017: USC Institute for Creative Technologies, Programmer Analyst. Education: MS in Computer Science, University of Southern California, 2017; B.Tech in Computer Engineering, Ganpat University, 2014.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101828"/>
+      <stop offset="1" stop-color="#12305C"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5AA9FF"/>
+      <stop offset="1" stop-color="#2A4A7A"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .year { font-size: 14px; fill: #9DB4D3; }
+      .org  { font-size: 20px; font-weight: 700; fill: #FFFFFF; }
+      .role { font-size: 14px; font-weight: 600; fill: #5AA9FF; }
+      .work { font-size: 14px; fill: #C5D2E3; }
+      .tag  { font-size: 11px; font-weight: 700; fill: #101828; letter-spacing: 1px; }
+      .cap  { font-size: 12px; fill: #9DB4D3; letter-spacing: 1.5px; }
+    </style>
+  </defs>
+
+  <rect width="900" height="610" rx="18" fill="url(#bg)"/>
+
+  <!-- rail -->
+  <rect x="198.5" y="70" width="3" height="408" rx="1.5" fill="url(#rail)"/>
+
+  <!-- 1: LinkedIn (current) -->
+  <text x="172" y="75" text-anchor="end" class="mono year">2026 – now</text>
+  <circle cx="200" cy="70" r="8" fill="#5AA9FF" opacity="0.5">
+    <animate attributeName="r" values="8;18;8" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0;0.5" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="70" r="8" fill="#5AA9FF"/>
+  <text x="232" y="62" class="sans org">LinkedIn</text>
+  <rect x="330" y="46" width="48" height="20" rx="10" fill="#5AA9FF"/>
+  <text x="354" y="60" text-anchor="middle" class="sans tag">NOW</text>
+  <text x="232" y="84" class="sans role">Senior Engineer</text>
+  <text x="232" y="106" class="sans work">GenAI model migration and evaluation · royalties pipeline · search reliability</text>
+
+  <!-- 2: SAP Ariba -->
+  <text x="172" y="177" text-anchor="end" class="mono year">2019 – 2026</text>
+  <circle cx="200" cy="172" r="7" fill="#101828" stroke="#5AA9FF" stroke-width="3"/>
+  <text x="232" y="164" class="sans org">SAP Ariba</text>
+  <text x="232" y="186" class="sans role">Software Engineer → Senior Software Engineer</text>
+  <text x="232" y="208" class="sans work">Material traceability at 100K serial numbers per product · audited admin access</text>
+
+  <!-- 3: Samsung Research America -->
+  <text x="172" y="279" text-anchor="end" class="mono year">2019</text>
+  <circle cx="200" cy="274" r="7" fill="#101828" stroke="#5AA9FF" stroke-width="3"/>
+  <text x="232" y="266" class="sans org">Samsung Research America</text>
+  <text x="232" y="288" class="sans role">Software Engineer</text>
+  <text x="232" y="310" class="sans work">Cloud services for augmented reality and Samsung's AI platform</text>
+
+  <!-- 4: Veritas -->
+  <text x="172" y="381" text-anchor="end" class="mono year">2018 – 2019</text>
+  <circle cx="200" cy="376" r="7" fill="#101828" stroke="#4A8FE0" stroke-width="3"/>
+  <text x="232" y="368" class="sans org">Veritas</text>
+  <text x="232" y="390" class="sans role">Software Development Engineer</text>
+  <text x="232" y="412" class="sans work">REST APIs for NetBackup, enterprise backup and recovery</text>
+
+  <!-- 5: USC ICT -->
+  <text x="172" y="483" text-anchor="end" class="mono year">2016 – 2017</text>
+  <circle cx="200" cy="478" r="7" fill="#101828" stroke="#3A70B8" stroke-width="3"/>
+  <text x="232" y="470" class="sans org">USC Institute for Creative Technologies</text>
+  <text x="232" y="492" class="sans role">Programmer Analyst</text>
+  <text x="232" y="514" class="sans work">Virtual career guide built on virtual-human platforms</text>
+
+  <!-- education -->
+  <rect x="40" y="540" width="820" height="1" fill="#2A4A7A"/>
+  <text x="172" y="572" text-anchor="end" class="sans cap">EDUCATION</text>
+  <text x="232" y="566" class="sans work">MS in Computer Science · University of Southern California · 2017</text>
+  <text x="232" y="588" class="sans work">B.Tech in Computer Engineering · Ganpat University · 2014</text>
+</svg>
