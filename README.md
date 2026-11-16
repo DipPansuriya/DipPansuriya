@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/dip-pansuriya"><img src="https://img.shields.io/badge/Connect-dip--pansuriya-0A66C2?style=flat-square" alt="Connect on LinkedIn"/></a>
 </p>
 
-## 01 · Baseline <sub>who I am</sub>
+## 01 · Who I am
 
 Swapping the model behind a live AI product is easy to do and hard to do safely. At LinkedIn I led the program that moved production LLM workloads, including LinkedIn Learning's AI Coach, from a third-party cloud model to in-house open-weight models. I also built the evaluation framework that decided when each workload was ready to cut over.
 
@@ -19,7 +19,7 @@ Before LinkedIn I spent six and a half years at SAP Ariba, and earlier worked at
 
 **Currently exploring:** LLM-as-a-judge calibration · serving open-weight models · evaluation for agentic systems
 
-## 02 · Evidence <sub>the work, with the checks it passed</sub>
+## 02 · The evidence
 
 ### 1 · AI Coach: moving a production LLM to open-weight models
 
@@ -56,13 +56,13 @@ Moved LinkedIn Learning's AI Coach and other live workloads off a third-party LL
 
 </details>
 
-## 03 · Rollout <sub>where I have shipped</sub>
+## 03 · Where I've shipped
 
 <p align="center">
   <img src="career.svg" width="100%" alt="Career timeline: LinkedIn, Senior Engineer, 2026 to now. SAP Ariba, Software Engineer to Senior Software Engineer, 2019 to 2026. Samsung Research America, Software Engineer, 2019. Veritas, Software Development Engineer, 2018 to 2019. USC Institute for Creative Technologies, Programmer Analyst, 2016 to 2017. Education: MS in Computer Science, University of Southern California, 2017; B.Tech in Computer Engineering, Ganpat University, 2014."/>
 </p>
 
-## 04 · Stack <sub>what I build with</sub>
+## 04 · What I build with
 
 ```text
 GenAI     LLM evaluation · LLM-as-a-judge · open-weight models · vLLM · SGLang
@@ -71,6 +71,6 @@ Backend   Java · Python · Spring · REST APIs · microservices
 Cloud     AWS · GCP · Azure · Kubernetes · Docker · CI/CD
 ```
 
-## 05 · Handoff <sub>get in touch</sub>
+## 05 · Get in touch
 
 <a href="https://www.linkedin.com/in/dip-pansuriya"><img src="https://img.shields.io/badge/Say%20hi%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="Say hi on LinkedIn"/></a>
