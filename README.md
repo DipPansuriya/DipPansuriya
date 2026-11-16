@@ -39,6 +39,12 @@ online A/B experiment          run before every cutover
 verdict   SHIP
 ```
 
+Moved LinkedIn Learning's AI Coach and other live workloads off a third-party LLM without a drop in quality or safety.
+
+<details>
+<summary><b>How the cutover was run</b></summary>
+<br>
+
 **The problem.** LinkedIn Learning's AI Coach and other production workloads ran on a third-party cloud LLM. Moving them in-house meant changing the model under a live product without users noticing a drop in quality or safety.
 
 **What I did.**
@@ -48,10 +54,12 @@ verdict   SHIP
 
 **What changed.** Workloads now run on in-house open-weight models, with less dependency on an external API and stronger data privacy and compliance.
 
+</details>
+
 ## 03 · Rollout <sub>where I have shipped</sub>
 
 <p align="center">
-  <img src="assets/career.svg" width="100%" alt="Career timeline: LinkedIn, Senior Engineer, 2026 to now. SAP Ariba, Software Engineer to Senior Software Engineer, 2019 to 2026. Samsung Research America, Software Engineer, 2019. Veritas, Software Development Engineer, 2018 to 2019. USC Institute for Creative Technologies, Programmer Analyst, 2016 to 2017. Education: MS in Computer Science, University of Southern California, 2017; B.Tech in Computer Engineering, Ganpat University, 2014."/>
+  <img src="career.svg" width="100%" alt="Career timeline: LinkedIn, Senior Engineer, 2026 to now. SAP Ariba, Software Engineer to Senior Software Engineer, 2019 to 2026. Samsung Research America, Software Engineer, 2019. Veritas, Software Development Engineer, 2018 to 2019. USC Institute for Creative Technologies, Programmer Analyst, 2016 to 2017. Education: MS in Computer Science, University of Southern California, 2017; B.Tech in Computer Engineering, Ganpat University, 2014."/>
 </p>
 
 ## 04 · Stack <sub>what I build with</sub>
