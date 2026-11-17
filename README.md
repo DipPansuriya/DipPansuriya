@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Focus-LLM%20evaluation%20%C2%B7%20model%20migration-101828?style=flat-square" alt="Focus: LLM evaluation and model migration"/>
   <img src="https://img.shields.io/badge/Sunnyvale-California-475467?style=flat-square" alt="Sunnyvale, California"/>
   <a href="https://www.linkedin.com/in/dip-pansuriya"><img src="https://img.shields.io/badge/Connect-dip--pansuriya-0A66C2?style=flat-square" alt="Connect on LinkedIn"/></a>
+  <a href="https://www.dip-pansuriya.com"><img src="https://img.shields.io/badge/Website-dip--pansuriya.com-101828?style=flat-square" alt="Website: dip-pansuriya.com"/></a>
 </p>
 
 ## 01 · Who I am
@@ -74,3 +75,4 @@ Cloud     AWS · GCP · Azure · Kubernetes · Docker · CI/CD
 ## 05 · Get in touch
 
 <a href="https://www.linkedin.com/in/dip-pansuriya"><img src="https://img.shields.io/badge/Say%20hi%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="Say hi on LinkedIn"/></a>
+<a href="https://www.dip-pansuriya.com"><img src="https://img.shields.io/badge/Visit-dip--pansuriya.com-101828?style=for-the-badge" alt="Visit dip-pansuriya.com"/></a>
